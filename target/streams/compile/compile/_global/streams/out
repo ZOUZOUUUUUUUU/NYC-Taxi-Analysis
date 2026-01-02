@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\LENOVO\Documents\NYC-Taxi-Analysis\src\main\scala\Extension_Analyse_Avancee.scala:42:8: overloaded method groupBy with alternatives:[0m
+[0m[[0m[31merror[0m] [0m[0m  (col1: String,cols: String*)org.apache.spark.sql.RelationalGroupedDataset <and>[0m
+[0m[[0m[31merror[0m] [0m[0m  (cols: org.apache.spark.sql.Column*)org.apache.spark.sql.RelationalGroupedDataset[0m
+[0m[[0m[31merror[0m] [0m[0m cannot be applied to (org.apache.spark.sql.Column, String)[0m
+[0m[[0m[31merror[0m] [0m[0m      .groupBy(col("day_name"), "hour")[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

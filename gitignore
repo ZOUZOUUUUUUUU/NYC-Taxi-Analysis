@@ -1,0 +1,43 @@
+# Scala / SBT
+target/
+project/target/
+project/project/
+.bsp/
+.metals/
+.bloop/
+.vscode/
+
+# IDE
+.idea/
+*.iml
+.DS_Store
+
+# Spark
+spark-warehouse/
+metastore_db/
+derby.log
+
+# Output files (données trop volumineuses)
+output/
+data/raw/*.parquet
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# Visualisations (optionnel - à commenter si vous voulez les inclure)
+# visualizations/*.png
+
+# Temporary files
+*.tmp
+*.swp
+*~

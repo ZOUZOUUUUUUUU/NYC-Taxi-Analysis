@@ -1,0 +1,33 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\LENOVO\Documents\NYC-Taxi-Analysis\target\scala-2.13\nyctaxianalysis_2.13-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ConvertToCSV$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\LENOVO\Documents\NYC-Taxi-Analysis\target\scala-2.13\classes\ConvertToCSV$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ConvertToCSV.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\LENOVO\Documents\NYC-Taxi-Analysis\target\scala-2.13\classes\ConvertToCSV.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Extension_AnalyseAvancee$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\LENOVO\Documents\NYC-Taxi-Analysis\target\scala-2.13\classes\Extension_AnalyseAvancee$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Extension_AnalyseAvancee.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\LENOVO\Documents\NYC-Taxi-Analysis\target\scala-2.13\classes\Extension_AnalyseAvancee.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Phase1_IngestionExploration$$typecreator10$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\LENOVO\Documents\NYC-Taxi-Analysis\target\scala-2.13\classes\Phase1_IngestionExploration$$typecreator10$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Phase1_IngestionExploration$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\LENOVO\Documents\NYC-Taxi-Analysis\target\scala-2.13\classes\Phase1_IngestionExploration$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Phase1_IngestionExploration.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\LENOVO\Documents\NYC-Taxi-Analysis\target\scala-2.13\classes\Phase1_IngestionExploration.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Phase2_NettoyageTransformation$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\LENOVO\Documents\NYC-Taxi-Analysis\target\scala-2.13\classes\Phase2_NettoyageTransformation$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Phase2_NettoyageTransformation.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\LENOVO\Documents\NYC-Taxi-Analysis\target\scala-2.13\classes\Phase2_NettoyageTransformation.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Phase3_AnalyseSpatioTemporelle$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\LENOVO\Documents\NYC-Taxi-Analysis\target\scala-2.13\classes\Phase3_AnalyseSpatioTemporelle$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Phase3_AnalyseSpatioTemporelle.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\LENOVO\Documents\NYC-Taxi-Analysis\target\scala-2.13\classes\Phase3_AnalyseSpatioTemporelle.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Phase4_AnalyseModePaiement$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\LENOVO\Documents\NYC-Taxi-Analysis\target\scala-2.13\classes\Phase4_AnalyseModePaiement$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Phase4_AnalyseModePaiement.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\LENOVO\Documents\NYC-Taxi-Analysis\target\scala-2.13\classes\Phase4_AnalyseModePaiement.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Phase5_RideSharing$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\LENOVO\Documents\NYC-Taxi-Analysis\target\scala-2.13\classes\Phase5_RideSharing$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Phase5_RideSharing.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\LENOVO\Documents\NYC-Taxi-Analysis\target\scala-2.13\classes\Phase5_RideSharing.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
