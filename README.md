@@ -177,7 +177,7 @@ Ce projet est fourni à des fins éducatives et d'analyse.
 
 ## 👤 Auteur
 
-Votre Nom - Janvier 2026
+Zeinab Nechi - Janvier 2026
 
 ## 🙏 Remerciements
 
